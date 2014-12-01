@@ -1,0 +1,19 @@
+{
+  "name": "hello-power-assert",
+  "version": "0.0.0",
+  "description": "My first step into power-assert world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test:make && gulp test:exec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leader22/hello-power-assert.git"
+  },
+  "author": "leader22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leader22/hello-power-assert/issues"
+  },
+  "homepage": "https://github.com/leader22/hello-power-assert"
+}
