@@ -1,6 +1,6 @@
 'use strict';
 var assert = require('power-assert');
-var addNum = require('../../lib/addNum');
+var addNum = require('../lib/addNum');
 
 describe('サンプルテスト', function() {
     it('テスト項目: 1', function() {

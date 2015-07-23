@@ -4,7 +4,7 @@
   "description": "My first step into power-assert world!",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test:make && gulp test:exec"
+    "test": "gulp test:run"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/leader22/hello-power-assert/issues"
   },
-  "homepage": "https://github.com/leader22/hello-power-assert"
+  "homepage": "https://github.com/leader22/hello-power-assert",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-espower": "^0.10.1",
+    "gulp-mocha": "^2.1.3",
+    "power-assert": "^0.11.0"
+  }
 }
